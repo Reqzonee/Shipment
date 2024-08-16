@@ -3,6 +3,9 @@ backend setup command :
 cd backend
 npm install
 
+for running the server
+node server.js
+
 server:https://shipment-1.onrender.com
 
 use below format please add /api/ and then call anything
