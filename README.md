@@ -3,6 +3,11 @@ backend setup command :
 cd backend
 npm install
 
+server:https://shipment-1.onrender.com
+
+use below format please add /api/ and then call anything
+https://shipment-1.onrender.com/api/teachers/66bedce2f582e60e895484f7/classrooms
+
 ![image](https://github.com/user-attachments/assets/29eb1b2c-58e7-49cf-822c-8c390e03c5ac)
 ![image](https://github.com/user-attachments/assets/96c51f01-b54d-4a5d-8c3a-8396c2c91429)
 ![image](https://github.com/user-attachments/assets/0ce6a304-7155-4dea-8d2b-174a4b8d8d33)
