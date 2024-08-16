@@ -6,6 +6,12 @@ npm install
 for running the server
 node server.js
 
+
+PORT=5000
+MONGO_URI=''
+FRONTEND_URL='http://localhost:5173'
+JWT_SECRET='parajbhatt'
+
 server:https://shipment-1.onrender.com
 
 use below format please add /api/ and then call anything
